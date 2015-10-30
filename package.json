@@ -1,0 +1,26 @@
+{
+  "name": "nor",
+  "version": "0.1.0",
+  "description": "TBD",
+  "main": "index.js",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "handlebars": "^4.0.4",
+    "mongodb": "^2.0.47"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekvilon/nor.git"
+  },
+  "author": "ekvilon@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekvilon/nor/issues"
+  },
+  "homepage": "https://github.com/ekvilon/nor#readme"
+}
