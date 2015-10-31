@@ -32,3 +32,6 @@ node_modules
 # Site files
 /public/*
 /views/*
+
+# Keeping files
+!.gitkeep
