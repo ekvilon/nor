@@ -16,7 +16,7 @@ module.export = new function () {
 		admin: {
 			cookies: _.merge(this.development.cookies, {
 				path: '/admin'
-			}
+			})
 		},
 		site: {}
 	};

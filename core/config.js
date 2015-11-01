@@ -1,4 +1,4 @@
-module.export = new function () {
+module.exports = new function () {
 	var config = require('config');
 	var env = process.env.NODE_ENV || 'development';
 

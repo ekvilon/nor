@@ -1,3 +1,2 @@
-require('./admin')();
-require('./site')();
-
+require('./admin');
+require('./site');
